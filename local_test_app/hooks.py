@@ -7,7 +7,7 @@ app_description = "Development Testing App"
 app_email = "bhavan@aerele.in"
 app_license = "MIT"
 
-Includes in <head>
+#Includes in <head> one more state
 # ------------------
 
 # include js, css files in header of desk.html
