@@ -5,7 +5,7 @@ app_title = "Local Test App"
 app_publisher = "Bhavansathru"
 app_description = "Development Testing App"
 app_email = "bhavan@aerele.in"
-app_license = "MIT"
+# app_license = "MIT"
 
 #Includes in <head> one more state
 # ------------------
